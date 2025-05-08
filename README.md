@@ -1,5 +1,8 @@
 # 📊 Bankruptcy Prediction System Using Machine Learning
 
+![Bankruptcy Prediction System image](https://github.com/user-attachments/assets/b1f7cc2e-8e78-4935-9017-62b25b4ce1b3)
+
+
 This project is a full machine learning pipeline for predicting company bankruptcy based on financial and operational features. It uses multiple classification algorithms and is deployed via Gradio and Hugging Face Spaces.
 
 ## 🚀 Live Demo

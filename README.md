@@ -6,7 +6,7 @@
 This project is a full machine learning pipeline for predicting company bankruptcy based on financial and operational features. It uses multiple classification algorithms and is deployed via Gradio and Hugging Face Spaces.
 
 ## 🚀 Live Demo
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/your-username/bankruptcy-prediction)
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/AdMub/bankruptcy-prediction-app)
 
 ---
 

@@ -83,7 +83,7 @@ bankruptcy_prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bankruptcy-prediction.git
+git clone https://github.com/AdMub/bankruptcy-prediction.git
 cd bankruptcy-prediction
 ```
 
